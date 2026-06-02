@@ -66,6 +66,7 @@ button:hover {
 .banner h1 {
     font-size: 42px;
     margin-bottom: 10px;
+    color: #333;
 }
 
 .banner p {
